@@ -25,7 +25,7 @@ SECRET_KEY = 'ny^^(73u@zn1uu&^h%y!=h31hi$nud=bl8u+ry35xu6^s-gowy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://testmywebapp123.azurewebsites.net/basicPage.html']
+ALLOWED_HOSTS = ['testmywebapp123.azurewebsites.net','localhost']
 
 
 # Application definition
