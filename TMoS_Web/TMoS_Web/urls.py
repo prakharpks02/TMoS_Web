@@ -17,5 +17,10 @@ from django.contrib import admin
 from django.urls import path
 
 urlpatterns = [
+<<<<<<< HEAD
     path('admin/', admin.site.urls),
+=======
+    path('', admin.site.urls),
+    path(admin),
+>>>>>>> a5a5500dfb0ecf8350e29aa1bd5bb9f44b52d9d6
 ]
